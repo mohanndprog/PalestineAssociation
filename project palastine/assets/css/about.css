@@ -1,0 +1,31 @@
+
+
+/* start about */
+
+.about-text{
+    box-sizing: 150px;
+    text-align: right;
+    margin-right: 350px;
+    margin-top: 100px;
+
+}
+ /* .about-item{
+    display: inline-block;
+    box-shadow: 10px 10px 10px #ccc;
+}  */
+.about-img img {
+    margin-right: 982px;
+    transform: scale(0.6);
+    margin-top: -400px;
+}
+.about h1{
+    color: #01458E;
+    font-weight: bold;
+  
+}
+
+.about p{
+      color: #01458E;
+} 
+/* End about */
+

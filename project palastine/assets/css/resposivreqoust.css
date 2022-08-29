@@ -1,0 +1,50 @@
+.actions.botn {
+    position: absolute;
+    left: 196px;
+    bottom: 217px;
+    z-index: 1;
+}
+.wizard-option-list li {
+    width: 104%;
+    float: right;
+    padding: 15px;
+    position: relative;
+}
+.clo-lg-12.mr-5.adressrequst {
+    margin-right: 0px !important;
+    right: 10p;
+    /* bottom: -113px; */
+}
+.clo-lg-12.mr-5.adressrequst {
+    margin-right: -2px !important;
+}
+@media screen and (max-width: 767px){
+    .actions.botn {
+        position: absolute;
+        left: 196px;
+        bottom: 217px;
+        z-index: 1;
+    }
+    .actions.botn {
+        position: absolute;
+        left: 12px;
+        bottom: 289px;
+        z-index: 1;
+    }
+    .col-md-12.optionsharing {
+        width: 94%;
+    }
+    ul.list-unstyled.text-secondary.lh-lg {
+        margin-right: -53px;
+    }
+
+    h5.loca {
+        margin-right: -33px !important;
+    }
+    .clo-lg-12.mr-5.adressrequst {
+        margin-right: 50px !important;
+    }
+   
+}
+ 
+ 

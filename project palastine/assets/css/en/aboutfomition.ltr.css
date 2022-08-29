@@ -1,0 +1,109 @@
+/* start about */
+.about-text{
+    box-sizing: 150px;
+    text-align: right;
+    margin-right: 350px;
+    margin-top: 100px;
+
+}
+ /* .about-item{
+    display: inline-block;
+    box-shadow: 10px 10px 10px #ccc;
+}  */
+.about-img img {
+    margin-right: 982px;
+    transform: scale(0.6);
+    margin-top: -400px;
+}
+.about h1{
+    color: var(--green-color);
+    font-weight: bold;
+  
+}
+
+.about p{
+      color: var(--green-color);
+}
+
+/* End FORMV */
+/* Start goals */
+.goals {
+  margin-top: 80px !important;
+  margin-bottom: 50px !important;
+  text-align: left;
+}
+  .goals .row {
+    background-color: #f3f3f3;
+    padding: 15px;
+    border-radius: 15px;
+  }
+  .goals .row h3 {
+    color: #01458E;
+    font-weight: bold;
+  }
+  .goals .row h5 {
+    color: #000000;
+    font-weight: lighter;
+  }
+  .goals img {
+    width: 181px;
+    height: 142px;
+    margin-right: -776px;
+}
+article.text.goals {
+  margin-right: 371px;
+}
+  .goals .stuf-img {
+    width: 200px;
+    height: 200px;
+    margin-right: -740px;
+}
+.col-md-8.textgoals {
+  text-align: left !important;
+}
+  .goals .fa-solid p {
+    color: var(--green-color);
+  }
+  /* End goals */
+  
+.values {
+    margin-top: 80px !important;
+    margin-bottom: 50px !important;
+    text-align: right;
+}
+.values .row h4 {
+    color: #01458E;
+    font-weight: lighter;
+  }
+.values .row h5 {
+    margin-top: 10px !important;
+    margin-bottom: 50px !important;
+    text-align: left;
+}
+.values h1{
+    font-weight: bold;
+    color: var(--green-color);
+}
+
+/* End about */
+article.text.goals {
+    margin-right: 371px;
+    /* text-align: right !important; */
+    /* float: left!important; */
+}
+@media only screen   and (max-width: 969px) { 
+  article.text.goals {
+    margin-right: 0px;
+    /* text-align: right !important; */
+    /* float: left!important; */
+}
+
+}
+
+@media only screen   and (min-width: 1900px) { 
+  article.text.goals {
+    margin-right: 371px;
+    /* text-align: right !important; */
+    /* float: left!important; */
+}
+}
